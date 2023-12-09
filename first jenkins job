@@ -1,0 +1,8 @@
+Started by user Sapana Gautam Sharma
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/firstjenkins job
+[firstjenkins job] $ /bin/sh -xe /tmp/jenkins10678967748388995756.sh
++ echo 'hekko world'
+hekko world
++ mkdir jenkins demo
+Finished: SUCCESS
